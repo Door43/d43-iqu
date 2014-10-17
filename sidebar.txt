@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[iqu:home|Door43 (iqu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-iqu|d43-iqu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-iqu/archive/master.zip|d43-iqu.zip]]
+
+**Recent Changes**
+{{changes>ns = iqu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/iqu|Ethnologue data]]
+
